@@ -23,7 +23,7 @@ git clone https://github.com/Zongjy/Light-Json-Parser-Qt.git
 2. 进入项目目录：
 
 ```shell
-cd test
+cd Light-Json-Parser-Qt
 ```
 
 3. 打开终端，并执行以下命令来构建项目：
